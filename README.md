@@ -1,10 +1,10 @@
-# OS-Ticket-post-installation
+# OS-Ticket-Managerial-Skills
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This Project outlines the managing side of constructing and enforcing an ticket through help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-This screenshot shows the creation of Roles and Departments in osTicket. Here, I configured the “Supreme Admin” role with all permissions, added a “CIS Admins” department, and created a cross-departmental Team. This setup controls access and workflow in the support portal.
+This screenshot shows the creation of Roles and Departments in osTicket. Here, I configured the “Supreme Admin” role with all permissions, added a “CIS Admins” department, and created a cross-departmental Team. This setup controls access and workflow in the support portal. I basically was getting familiar with the "Admin or managing" Side of the OS Ticket permission.
 </p>
 <br />
 
@@ -42,7 +42,7 @@ This screenshot shows the creation of Roles and Departments in osTicket. Here, I
 
 </p>
 <p>
- In this screenshot, I’m adding help desk agents to osTicket. "John" is set up as a support agent with view-only access in the Support department. Agents like John are responsible for reviewing, responding to, and resolving support tickets assigned to their department.
+ In this screenshot, I’m adding help desk agents to osTicket. Also A part of managing OS Ticket, I am getting familiar with adding workers/agents and giving them certain permissions based on their role at the Service/Help Desk. Giving more permissions to the people with more responsibilities.
 </p>
 <br />
 
@@ -51,6 +51,6 @@ This screenshot shows the creation of Roles and Departments in osTicket. Here, I
 
 </p>
 <p>
-This screenshot documents the configuration of SLAs and the establishment of Help Topics in osTicket. SLAs define how quickly issues should be addressed, while Help Topics streamline the ticket creation and assignment process for end users and analysts.
+This screenshot documents the configuration of SLAs and the establishment of Help Topics in osTicket. SLAs define how quickly issues should be addressed, while Help Topics streamline the ticket creation and assignment process for end users and analysts. Here im scheduling and orchestrating the OS Ticket that would be given out to team/agents to work on. The description and Severity of the Ticket.
 </p>
 <br />
