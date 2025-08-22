@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
+<h1>Managing os-Ticket</h1>
 This Project outlines the managing side of constructing and enforcing an ticket through help desk ticketing system osTicket.<br />
 
 
