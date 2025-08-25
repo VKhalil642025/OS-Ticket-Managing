@@ -1,9 +1,9 @@
-# OS-Ticket-Managerial-Skills
+# OS-Ticket-User-Provisioning
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>Managing os-Ticket</h1>
+<h1>Acess control in os-Ticket</h1>
 This Project outlines the managing side of constructing and enforcing an ticket through help desk ticketing system osTicket.<br />
 
 
